@@ -1,0 +1,51 @@
+{
+  "name": "ybadge-mobile",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@hookform/resolvers": "^3.3.2",
+    "@mui/icons-material": "^5.14.18",
+    "@mui/material": "^5.14.17",
+    "@next/font": "^13.1.1",
+    "@react-three/drei": "^9.115.0",
+    "@react-three/fiber": "^8.17.10",
+    "@types/node": "18.11.18",
+    "@types/react": "18.2.42",
+    "@types/react-dom": "18.0.10",
+    "@types/react-motion": "0.0.33",
+    "@types/react-transition-group": "^4.4.5",
+    "@types/three": "0.132.0",
+    "axios": "^1.6.7",
+    "eslint": "8.31.0",
+    "eslint-config-next": "13.1.1",
+    "formik": "^2.4.5",
+    "howler": "^2.2.4",
+    "next": "13.1.1",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-hook-form": "^7.48.2",
+    "react-motion": "^0.5.2",
+    "react-spring": "^9.7.4",
+    "react-transition-group": "^4.4.5",
+    "three": "^0.170.0",
+    "three-stdlib": "^2.34.0",
+    "typescript": "4.9.4",
+    "yarn": "^1.22.19",
+    "yup": "^1.3.2",
+    "zod": "^3.22.4"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.20",
+    "prettier": "^3.0.3",
+    "tailwindcss": "^3.2.4"
+  }
+}
